@@ -1,0 +1,2 @@
+#define PALAVRA_CHAVE 1
+#define IDENTIFICADOR 2
