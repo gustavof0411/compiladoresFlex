@@ -6,7 +6,7 @@
 
 PALAVRA_CHAVE "if"|"else"|"while"
 PARENTESE [\(|\)]
-IDENTIFICADOR [a-z][a-zA-Z]*
+IDENTIFICADOR [a-z][a-zA-Z0-9]*
 NUM [0-9]+
 OPERADOR [\+|\-|\*|\/|\=]
 
