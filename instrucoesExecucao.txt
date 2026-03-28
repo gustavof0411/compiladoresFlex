@@ -5,4 +5,4 @@ gcc .\lex.yy.cc
 .\(compiladoWindows/Mac/Linux) entrada.txt
 
 Caso deseje inserir entradas no terminal, apenas execute:
-.\(compiladoWindows/Mac/Linux) entrada.txt
+.\(compiladoWindows/Mac/Linux)
